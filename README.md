@@ -48,6 +48,9 @@
 
 ## Output:
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3f8401a7-5bd6-4272-a94a-23c5775319e9" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e6c73eeb-08ed-4d09-aabe-76e56f26d10e" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/133b7093-c828-4c04-919c-1fe062d4fe95" />
 
 
 ## RESULT:
